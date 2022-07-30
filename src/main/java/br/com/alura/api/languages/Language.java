@@ -12,9 +12,6 @@ public class Language {
   private String image;
   private int rank;
 
-  public Language() {
-  }
-
   public Language(String title, String image, int rank) {
     this.title = title;
     this.image = image;
